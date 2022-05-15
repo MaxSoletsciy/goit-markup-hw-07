@@ -1,0 +1,22 @@
+%flex-container {
+    display: flex;
+    align-items: center;
+}
+
+%section-title {
+    color: $title-text-color;
+}
+
+%section-title-h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.16;
+    text-align: center;
+}
+
+%networks {
+    display: inline-block;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+}    
