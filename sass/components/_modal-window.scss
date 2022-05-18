@@ -3,6 +3,10 @@
     pointer-events: none;
 }
 
+.backdrop {
+    transition: $transition-opacity-effect;
+}
+
 .modal-window {
     position: absolute;
     top: 50%;

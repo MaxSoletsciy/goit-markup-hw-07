@@ -18,7 +18,7 @@ header {
     padding-top: 32px;
     padding-bottom: 32px;
     color: $title-text-color;
-    transition: $title-text-color;
+    transition: $transition-color-effect;
 
     &:hover,
     &:focus {
